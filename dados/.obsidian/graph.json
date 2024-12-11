@@ -6,17 +6,39 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:\"Engenharia de dados/AWS\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16753920
+      }
+    },
+    {
+      "query": "path:Linux  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "Spark",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": -1,
+  "nodeSizeMultiplier": 1.37683919270833,
+  "lineSizeMultiplier": 1.03988444010417,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "centerStrength": 0.36474609375,
+  "repelStrength": 9.5166015625,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.2988202444719473,
+  "linkDistance": 266,
+  "scale": 0.3994854043883468,
   "close": true
 }
