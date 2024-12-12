@@ -37,16 +37,54 @@
                     "type": "integrated",
                     "useWin32Conhost": true
                   },
+                  "serial": null
+                }
+              },
+              "pinned": true,
+              "icon": "terminal",
+              "title": "Terminal: zsh"
+            }
+          },
+          {
+            "id": "23b5ec2f8f1cb524",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": "/Users/altenirgomesmodesto/Desktop/obisidian/dados",
+                  "focus": false,
+                  "profile": {
+                    "args": [],
+                    "executable": "/bin/zsh",
+                    "name": "",
+                    "platforms": {
+                      "darwin": true
+                    },
+                    "pythonExecutable": "python3",
+                    "restoreHistory": true,
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {
+                      "documentOverride": null
+                    },
+                    "type": "integrated",
+                    "useWin32Conhost": true
+                  },
                   "serial": {
                     "columns": 137,
-                    "data": "╭─\u001b[32;1maltenirgomesmodesto@FSLabs-Mac-mini\u001b[0m \u001b[34;1m~/Desktop/obisidian/dados \r\n\u001b[0m╰─\u001b[1m$\u001b[0m cd ..\r\n╭─\u001b[32;1maltenirgomesmodesto@FSLabs-Mac-mini\u001b[0m \u001b[34;1m~/Desktop/obisidian \r\n\u001b[0m╰─\u001b[1m$\u001b[0m git stauts\r\ngit: 'stauts' is not a git command. See 'git --help'.\r\n\r\nThe most similar command is\r\n\u001b[8Cstatus\r\n╭─\u001b[32;1maltenirgomesmodesto@FSLabs-Mac-mini\u001b[0m \u001b[34;1m~/Desktop/obisidian \r\n\u001b[0m╰─\u001b[1m$\u001b[0m git init\u001b[121C\u001b[31;1m1 ↵\r\n\u001b[33;22mhint: Using 'master' as the name for the initial branch. This default branch name\r\nhint: is subject to change. To configure the initial branch name to use in all\r\nhint: of your new repositories, which will suppress this warning, call:\r\nhint:\r\nhint: \u001b[2Cgit config --global init.defaultBranch <name>\r\nhint:\r\nhint: Names commonly chosen instead of 'master' are 'main', 'trunk' and\r\nhint: 'development'. The just-created branch can be renamed via this command:\r\nhint:\r\nhint: \u001b[2Cgit branch -m <name>\r\n\u001b[0mInitialized empty Git repository in /Users/altenirgomesmodesto/Desktop/obisidian/.git/\r\n╭─\u001b[32;1maltenirgomesmodesto@FSLabs-Mac-mini\u001b[0m \u001b[34;1m~/Desktop/obisidian \u001b[33;22m‹master\u001b[31m●\u001b[33m› \r\n\u001b[0m╰─\u001b[1m$\u001b[0m git status\r\nOn branch master\r\n\r\nNo commits yet\r\n\r\nUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n\u001b[8C\u001b[31mdados/\r\n\r\n\u001b[0mnothing added to commit but untracked files present (use \"git add\" to track)\r\n╭─\u001b[32;1maltenirgomesmodesto@FSLabs-Mac-mini\u001b[0m \u001b[34;1m~/Desktop/obisidian \u001b[33;22m‹master\u001b[31m●\u001b[33m› \r\n\u001b[0m╰─\u001b[1m$\u001b[0m git add .\r\n╭─\u001b[32;1maltenirgomesmodesto@FSLabs-Mac-mini\u001b[0m \u001b[34;1m~/Desktop/obisidian \u001b[33;22m‹master\u001b[31m●\u001b[33m› \r\n\u001b[0m╭─\u001b[32;1maltenirgomesmodesto@FSLabs-Mac-mini\u001b[0m \u001b[34;1m~/Desktop/obisidian \u001b[33;22m‹master\u001b[31m●\u001b[33m› \r\n\u001b[0m╰─\u001b[1m$\u001b[0m git status\r\nOn branch master\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   dados/.obsidian/community-plugins.json\r\n\u001b[8Cmodified:   dados/.obsidian/graph.json\r\n\u001b[8Cmodified:   dados/.obsidian/workspace.json\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n\u001b[8C\u001b[31mdados/..md\r\n\u001b[8Cdados/.obsidian/plugins/obsidian-excalidraw-plugin/\r\n\u001b[8Cdados/.obsidian/types.json\r\n\u001b[8Cdados/Engenharia de dados/OPEN-SOURCE/\r\n\u001b[8Cdados/Excalidraw/\r\n\u001b[8Cdados/Linux/\r\n\u001b[8Cdados/Pasted Image 20241211183935_960.png\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n╭─\u001b[32;1maltenirgomesmodesto@FSLabs-Mac-mini\u001b[0m \u001b[34;1m~/Desktop/obisidian \u001b[33;22m‹master\u001b[31m●\u001b[33m› \r\n\u001b[0m╰─\u001b[1m$\u001b[0m git \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\u001b[33A\u001b[8C",
+                    "data": "╭─\u001b[32;1maltenirgomesmodesto@FSLabs-Mac-mini\u001b[0m \u001b[34;1m~/Desktop/obisidian/dados \u001b[33;22m‹master\u001b[31m●\u001b[33m› \r\n\u001b[0m╰─\u001b[1m$\u001b[0m git pull\r\nremote: Enumerating objects: 24, done.\r\nremote: Counting objects: 100% (24/24), done.\r\nremote: Compressing objects: 100% (7/7), done.\r\nremote: Total 15 (delta 4), reused 15 (delta 4), pack-reused 0 (from 0)\r\nUnpacking objects: 100% (15/15), 17.45 KiB | 992.00 KiB/s, done.\r\nFrom github.com:PandinhaAnao1/Vaucher\r\n   517d7b4..d1bbb9f  master     -> origin/master\r\nThere is no tracking information for the current branch.\r\nPlease specify which branch you want to merge with.\r\nSee git-pull(1) for details.\r\n\r\n    git pull <remote> <branch>\r\n\r\nIf you wish to set tracking information for this branch you can do so with:\r\n\r\n    git branch --set-upstream-to=origin/<branch> master\r\n\r\n╭─\u001b[32;1maltenirgomesmodesto@FSLabs-Mac-mini\u001b[0m \u001b[34;1m~/Desktop/obisidian/dados \u001b[33;22m‹master\u001b[31m●\u001b[33m› \r\n\u001b[0m╰─\u001b[1m$\u001b[0m git pull origin master\u001b[107C\u001b[31;1m1 ↵\r\n\u001b[0mFrom github.com:PandinhaAnao1/Vaucher\r\n * branch            master     -> FETCH_HEAD\r\nUpdating 517d7b4..d1bbb9f\r\nerror: Your local changes to the following files would be overwritten by merge:\r\n\u001b[8Cdados/.obsidian/graph.json\r\n\u001b[8Cdados/.obsidian/workspace.json\r\nPlease commit your changes or stash them before you merge.\r\nAborting\r\n╭─\u001b[32;1maltenirgomesmodesto@FSLabs-Mac-mini\u001b[0m \u001b[34;1m~/Desktop/obisidian/dados \u001b[33;22m‹master\u001b[31m●\u001b[33m› \r\n\u001b[0m╰─\u001b[1m$\u001b[0m git status\u001b[119C\u001b[31;1m1 ↵\r\n\u001b[0mOn branch master\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/graph.json\r\n\u001b[8Cmodified:   .obsidian/workspace.json\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n╭─\u001b[32;1maltenirgomesmodesto@FSLabs-Mac-mini\u001b[0m \u001b[34;1m~/Desktop/obisidian/dados \u001b[33;22m‹master\u001b[31m●\u001b[33m› \r\n\u001b[0m╰─\u001b[1m$\u001b[0m git restore .\r\n╭─\u001b[32;1maltenirgomesmodesto@FSLabs-Mac-mini\u001b[0m \u001b[34;1m~/Desktop/obisidian/dados \u001b[33;22m‹master› \r\n\u001b[0m╰─\u001b[1m$\u001b[0m git status            \r\nOn branch master\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/workspace.json\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n╭─\u001b[32;1maltenirgomesmodesto@FSLabs-Mac-mini\u001b[0m \u001b[34;1m~/Desktop/obisidian/dados \u001b[33;22m‹master\u001b[31m●\u001b[33m› \r\n\u001b[0m╰─\u001b[1m$\u001b[0m git restore .obsidian/workspace.json \r\n╭─\u001b[32;1maltenirgomesmodesto@FSLabs-Mac-mini\u001b[0m \u001b[34;1m~/Desktop/obisidian/dados \u001b[33;22m‹master› \r\n\u001b[0m╰─\u001b[1m$\u001b[0m git status                          \r\nOn branch master\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/workspace.json\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n╭─\u001b[32;1maltenirgomesmodesto@FSLabs-Mac-mini\u001b[0m \u001b[34;1m~/Desktop/obisidian/dados \u001b[33;22m‹master\u001b[31m●\u001b[33m› \r\n\u001b[0m╰─\u001b[1m$\u001b[0m git add                             \u001b[29D",
                     "rows": 56
                   }
                 }
               },
               "pinned": true,
               "icon": "terminal",
-              "title": "Terminal: altenirgomesmodesto@FSLabs-Mac-mini:~/Desktop/obisidian"
+              "title": "Terminal: altenirgomesmodesto@FSLabs-Mac-mini:~/Desktop/obisidian/dados"
             }
           },
           {
@@ -62,8 +100,19 @@
               "icon": "lucide-file",
               "title": "Spark"
             }
+          },
+          {
+            "id": "2d82834ca6cd2917",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,7 +263,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "21d754207d42bdf2",
+  "active": "23b5ec2f8f1cb524",
   "lastOpenFiles": [
     "Engenharia de dados/OPEN-SOURCE/ETL/Spark/Spark.md",
     "Excalidraw/Spark",
