@@ -1,1 +1,1 @@
-![](./Mapa-Spark.svg)
+![](Mapa-Spark.svg)

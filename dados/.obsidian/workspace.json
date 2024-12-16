@@ -37,12 +37,16 @@
                     "type": "integrated",
                     "useWin32Conhost": true
                   },
-                  "serial": null
+                  "serial": {
+                    "columns": 137,
+                    "data": "╭─\u001b[32;1maltenirgomesmodesto@FSLabs-Mac-mini\u001b[0m \u001b[34;1m~/Desktop/obisidian/dados \u001b[33;22m‹master\u001b[31m●\u001b[33m› \r\n\u001b[0m╰─\u001b[1m$\u001b[0m ",
+                    "rows": 56
+                  }
                 }
               },
               "pinned": true,
               "icon": "terminal",
-              "title": "Terminal: zsh"
+              "title": "Terminal: altenirgomesmodesto@FSLabs-Mac-mini:~/Desktop/obisidian/dados"
             }
           },
           {
@@ -88,21 +92,49 @@
             }
           },
           {
-            "id": "af170f17e6bbf53b",
+            "id": "bca6ad6958d49164",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "terminal:terminal",
               "state": {
-                "file": "Engenharia de dados/OPEN-SOURCE/ETL/Spark/Spark.md",
-                "mode": "source",
-                "source": false
+                "terminal:terminal": {
+                  "cwd": "/Users/altenirgomesmodesto/Desktop/obisidian/dados",
+                  "focus": false,
+                  "profile": {
+                    "args": [],
+                    "executable": "/bin/zsh",
+                    "name": "",
+                    "platforms": {
+                      "darwin": true
+                    },
+                    "pythonExecutable": "python3",
+                    "restoreHistory": true,
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {
+                      "documentOverride": null
+                    },
+                    "type": "integrated",
+                    "useWin32Conhost": true
+                  },
+                  "serial": {
+                    "columns": 137,
+                    "data": "╭─\u001b[32;1maltenirgomesmodesto@FSLabs-Mac-mini\u001b[0m \u001b[34;1m~/Desktop/obisidian/dados \u001b[33;22m‹master\u001b[31m●\u001b[33m› \r\n\u001b[0m╰─\u001b[1m$\u001b[0m ls\r\n\u001b[36;1mEngenharia de dados\u001b[0m \u001b[36;1mExcalidraw\u001b[0m          \u001b[36;1mLinux\r\n\u001b[0m╭─\u001b[32;1maltenirgomesmodesto@FSLabs-Mac-mini\u001b[0m \u001b[34;1m~/Desktop/obisidian/dados \u001b[33;22m‹master\u001b[31m●\u001b[33m› \r\n\u001b[0m╰─\u001b[1m$\u001b[0m git status\r\nOn branch master\r\nChanges not staged for commit:\r\n  (use \"git add/rm <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/app.json\r\n\u001b[8Cmodified:   .obsidian/community-plugins.json\r\n\u001b[8Cmodified:   .obsidian/graph.json\r\n\u001b[8Cmodified:   .obsidian/workspace.json\r\n\u001b[8Cdeleted:    Engenharia de dados/OPEN-SOURCE/ETL/Spark/Mapa-Spark.svg\r\n\u001b[8Cmodified:   Engenharia de dados/OPEN-SOURCE/ETL/Spark/Spark.md\r\n\u001b[8Cdeleted:    Excalidraw/Spark/Mapa-spark.excalidraw.md\r\n\u001b[8Cdeleted:    Pasted Image 20241211183935_960.png\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n\u001b[8C\u001b[31m../.DS_Store\r\n\u001b[8C.obsidian/plugins/OA-file-hider/\r\n\u001b[8CExcalidraw/Icons/\r\n\u001b[8CExcalidraw/Spark/Excalidraw/\r\n\u001b[8CExcalidraw/Spark/SVG/\r\n\u001b[8CLinux/Arquitetura/\r\n\u001b[8CLinux/GNU e comandos linux/\r\n\u001b[8CLinux/Gerenciamento de Pacotes/\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n╭─\u001b[32;1maltenirgomesmodesto@FSLabs-Mac-mini\u001b[0m \u001b[34;1m~/Desktop/obisidian/dados \u001b[33;22m‹master\u001b[31m●\u001b[33m› \r\n\u001b[0m╰─\u001b[1m$\u001b[0m git ad",
+                    "rows": 56
+                  }
+                }
               },
-              "icon": "lucide-file",
-              "title": "Spark"
+              "pinned": true,
+              "icon": "terminal",
+              "title": "Terminal: altenirgomesmodesto@FSLabs-Mac-mini:~/Desktop/obisidian/dados"
             }
           },
           {
-            "id": "2d82834ca6cd2917",
+            "id": "89cb7df4f0f5f6e4",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -112,7 +144,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -263,46 +295,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "23b5ec2f8f1cb524",
+  "active": "bca6ad6958d49164",
   "lastOpenFiles": [
-    "Engenharia de dados/AWS/VPN.md",
-    "Engenharia de dados/AWS/VPC/VPC.md",
-    "Engenharia de dados/AWS/VPC/VPC peering.md",
-    "Engenharia de dados/AWS/VPC",
-    "Engenharia de dados/AWS/SNAPSHOT.md",
-    "Engenharia de dados/AWS/S3/Replica S3 Asicrona.md",
-    "Engenharia de dados/AWS/S3/Outpost.md",
-    "Engenharia de dados/AWS/PLANOS_DE_SUPORTE/Enterprise Suport.md",
-    "Engenharia de dados/AWS/PLANOS_DE_SUPORTE",
-    "Engenharia de dados/AWS/OpenSearch Service.md",
-    "Engenharia de dados/AWS/IAM IDENTITY CENTER.md",
-    "Engenharia de dados/AWS/IA/Text Extratc.md",
-    "Engenharia de dados/AWS/IA/Comprehend.md",
-    "Engenharia de dados/AWS/IA/Amazon Kendra.md",
-    "Engenharia de dados/AWS/IA/AWS Direct Connect.md",
-    "Engenharia de dados/AWS/IA",
-    "Engenharia de dados/AWS/GLUE/Glue DataBrew.md",
-    "Engenharia de dados/AWS/EBS.md",
-    "Engenharia de dados/AWS/DADOS/Aws RedShit.md",
-    "Engenharia de dados/AWS/DADOS",
-    "Engenharia de dados/AWS/Cognito.md",
-    "Engenharia de dados/AWS/Cloud9.md",
-    "Engenharia de dados/AWS/Aws Detective.md",
-    "Engenharia de dados/AWS/Aws CodeArtiFact.md",
-    "Engenharia de dados/AWS/Auto Scaling.md",
-    "Engenharia de dados/AWS/Amazon Lightsail.md",
-    "Engenharia de dados/AWS/AWS SQS.md",
-    "Engenharia de dados/AWS/AWS Organizations.md",
-    "Engenharia de dados/AWS/AWS Organization.md",
-    "Engenharia de dados/AWS/AWS Iot Core.md",
-    "Excalidraw/Spark",
-    "Engenharia de dados/OPEN-SOURCE/ETL/Spark/Mapa-Spark.svg",
-    "Pasted Image 20241211183935_960.png",
-    "Excalidraw",
-    "Engenharia de dados/OPEN-SOURCE/ETL/Hadoop",
-    "Engenharia de dados/OPEN-SOURCE/ETL/Spark",
-    "Engenharia de dados/OPEN-SOURCE/ORQUESTRACAO",
-    "Engenharia de dados/OPEN-SOURCE/ETL",
+    "Excalidraw/Spark/SVG/Mapa-Spark.svg",
+    "Excalidraw/Icons",
+    "Excalidraw/Icons/Pasted Image 20241211183935_960.png",
+    "Excalidraw/Spark/Excalidraw",
+    "Excalidraw/Spark/SVG",
+    "Engenharia de dados/OPEN-SOURCE/ETL/Spark/Spark.md",
+    "Engenharia de dados/AWS/CloudWatch.md",
+    "Linux/GNU e comandos linux/Untitled.md",
+    "Linux/GNU e comandos linux/Processo_job/jobs.md",
+    "Linux/GNU e comandos linux/Processo_job/bg.md",
+    "Linux/GNU e comandos linux/Processo_job/nice.md",
+    "Linux/GNU e comandos linux/Processo_job/Renice.md",
+    "Linux/GNU e comandos linux/pipes_Redirecionamento/Formas de redireicionar um item pelo termina.md",
+    "Linux/GNU e comandos linux/Processo_job",
+    "Linux/GNU e comandos linux/pipes_Redirecionamento",
+    "Linux/GNU e comandos linux/Shell/xargs.md",
+    "Linux/GNU e comandos linux/Shell/find.md",
+    "Linux/GNU e comandos linux/Shell/cut.md",
+    "Linux/GNU e comandos linux/Shell/sed.md",
+    "Linux/GNU e comandos linux/Shell/awk.md",
+    "Linux/GNU e comandos linux/GNU e comandos linux.md",
+    "Linux/GNU e comandos linux/Shell",
+    "Linux/GNU e comandos linux",
+    "Linux/Gerenciamento de Pacotes/Compilação de codigo fonte/ldconfig.md",
+    "Linux/Gerenciamento de Pacotes/Compilação de codigo fonte/Make install.md",
+    "Linux/Gerenciamento de Pacotes/Compilação de codigo fonte/Make.md",
+    "Linux/Gerenciamento de Pacotes/Compilação de codigo fonte/pont bara configure.md",
+    "Linux/Gerenciamento de Pacotes/Compilação de codigo fonte/Compilação de codigo fonte.md",
+    "Linux/Gerenciamento de Pacotes/RPM/RPM.md",
+    "Linux/Gerenciamento de Pacotes/Compilação de codigo fonte",
+    "Linux/Gerenciamento de Pacotes/Untitled.md",
+    "Linux/Gerenciamento de Pacotes/RPM/Configuração de repositórios.md",
+    "Linux/Gerenciamento de Pacotes/RPM/Dnf.md",
+    "Linux/Gerenciamento de Pacotes/RPM/Rpm pacote.md",
+    "Linux/Gerenciamento de Pacotes/RPM/Yum.md",
+    "Linux/Gerenciamento de Pacotes/RPM",
+    "Linux/Gerenciamento de Pacotes/Debian",
     "Untitled.canvas",
     "test.canvas"
   ]
